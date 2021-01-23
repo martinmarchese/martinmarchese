@@ -2,9 +2,9 @@
 
 I'm Martin.. IT Geek 🤓 based in Buenos Aires, Argentina 
 
-🔭 I’m a computers engineer currently working as Technical Product Owner for biotech related software.
+🔭 I'm a software engineer currently working as a Technical Product Owner in the Biotech industry.
 
-Never giving up in my coding background though so here you'll find some of the work I can do as a hobby... yeah, once in a while I have some time @ home 😜 
+Although my current job is on product management, I haven't given up on my passion for coding - you can find some of the work I do as a hobby here. 😜 
 
 
 ## How to reach me 📫
