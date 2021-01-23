@@ -9,4 +9,4 @@ Although my current job is on product management, I haven't given up on my passi
 
 ## How to reach me 📫
 
-[<img src='https://raw.githubusercontent.com/martinmarchese/martinmarchese/main/.github/images/linkedin.png' alt='linkedin' height='20'>](https://www.linkedin.com/in/martín-marchese-2ab44a20/)  [<img src='https://raw.githubusercontent.com/martinmarchese/martinmarchese/main/.github/images/instagram.png' alt='instagram' height='20'>](https://www.instagram.com/martinmarchese/)  
+[<img src='https://raw.githubusercontent.com/martinmarchese/martinmarchese/main/.github/images/linkedin.png' alt='linkedin' height='20'>](https://www.linkedin.com/in/martín-marchese-2ab44a20/)  [<img src='https://raw.githubusercontent.com/martinmarchese/martinmarchese/main/.github/images/instagram.png' alt='instagram' height='20'>](https://www.instagram.com/martinmarchese/)   [<img src='https://raw.githubusercontent.com/martinmarchese/martinmarchese/main/.github/images/twitter.png' alt='instagram' height='20'>](https://twitter.com/martinmarchese/)
